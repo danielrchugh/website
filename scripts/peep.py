@@ -6,7 +6,7 @@ trusted, locally stored hash and only then installs them::
 
 This makes your deployments verifiably repeatable without having to maintain a
 local PyPI mirror or use a vendor lib. Just update the version numbers and
-hashes in requirements.txt, and you're all set.
+hashes in requirements.txt, and you're all set.get set go.
 
 """
 # This is here so embedded copies of peep.py are MIT-compliant:
